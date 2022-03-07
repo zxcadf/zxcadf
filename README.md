@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @NikitaChasheiko
-- 👀 I’m interested in PHP/HTML and JS
+- 👋 Привет, меня зовут @NikitaChasheiko
+- 👀 Я пишу сайты/ботов/программы на PHP/HTML и J
+- Мне 16 лет, я с Беларуси
+- Учусь в 10 классе - профильная группа.
 
 <!---
 NikitaChasheiko/NikitaChasheiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
