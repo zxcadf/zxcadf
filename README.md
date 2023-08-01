@@ -2,12 +2,8 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/lck20">
+  <a href=(https://t.me/zxcurs10">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-  </a>
-  <a href="https://zelenka.guru/chasheiko/">
-    <img src="https://img.shields.io/badge/lolz.guru-forestgreen?logo=zelenka&logoColor=white&style=for-the-badge" alt="ZELENKA"/>
-  </a>
   <a href="https://steamcommunity.com/id/lck20">
     <img src="https://img.shields.io/badge/STEAM-black?logo=steam&logoColor=white&style=for-the-badge" alt="Steam"/>
   </a>
@@ -25,14 +21,14 @@
 
 
 ### :man_technologist: About Me :
-I am a trained developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a trained developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SSSR.
 - :telescope: I'm a software engineer student working in Visual Studio Code, creating websites, telegram/discord bots, writing various programs.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/lck20)
+- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/zxcurs10)
 
 - ---
 
