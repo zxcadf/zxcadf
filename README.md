@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href=(https://t.me/zxcurs10">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
   <a href="https://steamcommunity.com/id/lck20">
     <img src="https://img.shields.io/badge/STEAM-black?logo=steam&logoColor=white&style=for-the-badge" alt="Steam"/>
   </a>
@@ -49,6 +47,3 @@ I am a trained developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
-
-### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikitaChasheiko&theme=dark&border_radius=4.8&mode=weekly)
