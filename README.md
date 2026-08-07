@@ -1,5 +1,6 @@
+<div align="center">
 <img src="https://i.imgur.com/wI5Jll6.png"/>
-
+</div>
 # <div align="center">👋 Hi, I'm **julinuc**</div>
 
 <div align="center">
@@ -23,16 +24,10 @@
 ---
 <div align="center">
 
-```text
-██╗     ██╗   ██╗███╗   ███╗██╗███╗   ██╗ █████╗
-██║     ██║   ██║████╗ ████║██║████╗  ██║██╔══██╗
-██║     ██║   ██║██╔████╔██║██║██╔██╗ ██║███████║
-██║     ██║   ██║██║╚██╔╝██║██║██║╚██╗██║██╔══██║
-███████╗╚██████╔╝██║ ╚═╝ ██║██║██║ ╚████║██║  ██║
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+# 🌌 Lumina-System
 <img src="https://i.imgur.com/WGqWpKy.png"/>
 
+</div>
 ---
 
 # 🌐 Connect With Me
