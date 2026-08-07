@@ -1,20 +1,16 @@
-<div align="center">
+# <div align="center">👋 Hi, I'm **julinuc**</div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **julinuc**
+<div align="center">
 
 ### 💻 Software Engineer • Discord Developer • Minecraft Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer;Minecraft+Fabric+Developer;Python+%7C+Java+%7C+JavaScript;Always+Learning+New+Technologies"/>
 
-<p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=julinuc&label=Profile+Views&color=22D3EE&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/julinuc?style=for-the-badge&color=22D3EE"/>
-
-<img src="https://img.shields.io/github/stars/julinuc?style=for-the-badge&color=22D3EE"/>
-
-</p>
+![](https://komarev.com/ghpvc/?username=zxcadf&style=for-the-badge&color=22D3EE)
+![](https://img.shields.io/github/followers/zxcadf?style=for-the-badge&color=22D3EE)
+![](https://img.shields.io/github/stars/zxcadf?style=for-the-badge&color=22D3EE)
 
 </div>
 
@@ -26,6 +22,7 @@
 class Julinuc:
 
     def __init__(self):
+        self.nickname = "julinuc"
         self.role = "Software Engineer"
 
         self.languages = [
@@ -36,113 +33,83 @@ class Julinuc:
             "CSS"
         ]
 
-        self.tools = [
-            "VS Code",
-            "IntelliJ IDEA",
-            "Git",
-            "GitHub"
-        ]
-
         self.specialization = [
             "Discord Bots",
             "Minecraft Fabric Mods",
-            "Automation",
-            "Backend"
+            "Backend",
+            "Automation"
         ]
 
-    def current_status(self):
-        return "Building cool things 🚀"
+    def status(self):
+        return "Always building something cool 🚀"
 ```
 
 - 🎓 Software Engineering Student
-- 🤖 Developing Discord & Telegram Bots
+- 🤖 Discord & Telegram Bot Developer
 - ⛏️ Minecraft Fabric Mod Developer
 - 🌐 Backend & Web Development
-- ⚡ Always learning something new
+- 🚀 Always learning new technologies
 
 ---
 
-# ⚙️ Tech Stack
-
-### Languages
+# ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-
-</p>
-
-### Frameworks & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,idea,mysql,sqlite"/>
-
-</p>
-
-### Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,react"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,git,github,vscode,idea,mysql,sqlite,docker,linux"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=julinuc&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julinuc&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=julinuc&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=zxcadf&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=julinuc&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zxcadf&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julinuc&theme=tokyo-night"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxcadf&theme=tokyo-night"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/julinuc">
+<a href="https://github.com/zxcadf">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
+
+</p>
+
+<div align="center">
+
+**Discord:** `julinuc`
 
 </div>
 
@@ -150,6 +117,6 @@ class Julinuc:
 
 <div align="center">
 
-### 🚀 *"Code. Learn. Improve. Repeat."*
+### 🚀 Code • Learn • Improve • Repeat
 
 </div>
