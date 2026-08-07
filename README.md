@@ -17,41 +17,7 @@
 </div>
 
 ---
-
-# 👨‍💻 About Me
-
-```python
-class Julinuc:
-
-    def __init__(self):
-        self.nickname = "julinuc"
-        self.role = "Software Engineer"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ]
-
-        self.specialization = [
-            "Discord Bots",
-            "Minecraft Fabric Mods",
-            "Backend",
-            "Automation"
-        ]
-
-    def status(self):
-        return "Always building something cool 🚀"
-```
-
-- 🎓 Software Engineering Student
-- 🤖 Discord & Telegram Bot Developer
-- ⛏️ Minecraft Fabric Mod Developer
-- 🌐 Backend & Web Development
-- 🚀 Always learning new technologies
-
+<img src="https://i.imgur.com/3LLbIkj.png"/>
 ---
 
 # ⚡ Tech Stack
