@@ -17,47 +17,14 @@
 </div>
 
 ---
+
 <img src="https://i.imgur.com/3LLbIkj.png"/>
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,git,github,vscode,idea,mysql,sqlite,docker,linux"/>
-</p>
 
 ---
+<div align="center">
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=zxcadf&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zxcadf&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxcadf&theme=tokyo-night"/>
-</p>
+# 🌌 Lumina-System
+<img src="blob:https://imgur.com/b103b081-c58d-4571-8d20-3975e86445a3"/>
 
 ---
 
