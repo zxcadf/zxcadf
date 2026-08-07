@@ -1,49 +1,155 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://steamcommunity.com/id/lck20">
-    <img src="https://img.shields.io/badge/STEAM-black?logo=steam&logoColor=white&style=for-the-badge" alt="Steam"/>
-  </a>
-</div>
-<div id="header" align="cener">
-<img src="https://komarev.com/ghpvc/?username=NikitaChasheiko&style=flat-square&color=blue" alt="">
-</div>
+<div align="center">
 
-##
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **julinuc**
 
-<div id="header" align="center">
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47husrhxaznpmmnzd3s7hm8dhg4nmbnakwcd99grmo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
-</div>
+### 💻 Software Engineer • Discord Developer • Minecraft Developer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer;Minecraft+Fabric+Developer;Python+%7C+Java+%7C+JavaScript;Always+Learning+New+Technologies"/>
 
+<p>
 
-### :man_technologist: About Me :
-I am a trained developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SSSR.
-- :telescope: I'm a software engineer student working in Visual Studio Code, creating websites, telegram/discord bots, writing various programs.
+<img src="https://komarev.com/ghpvc/?username=julinuc&label=Profile+Views&color=22D3EE&style=for-the-badge"/>
 
-- :seedling: Exploring Technical Content Writing.
+<img src="https://img.shields.io/github/followers/julinuc?style=for-the-badge&color=22D3EE"/>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<img src="https://img.shields.io/github/stars/julinuc?style=for-the-badge&color=22D3EE"/>
 
-- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/zxcurs10)
+</p>
 
-- ---
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ---
+
+# 👨‍💻 About Me
+
+```python
+class Julinuc:
+
+    def __init__(self):
+        self.role = "Software Engineer"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+
+        self.tools = [
+            "VS Code",
+            "IntelliJ IDEA",
+            "Git",
+            "GitHub"
+        ]
+
+        self.specialization = [
+            "Discord Bots",
+            "Minecraft Fabric Mods",
+            "Automation",
+            "Backend"
+        ]
+
+    def current_status(self):
+        return "Building cool things 🚀"
+```
+
+- 🎓 Software Engineering Student
+- 🤖 Developing Discord & Telegram Bots
+- ⛏️ Minecraft Fabric Mod Developer
+- 🌐 Backend & Web Development
+- ⚡ Always learning something new
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
+
+</p>
+
+### Frameworks & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,idea,mysql,sqlite"/>
+
+</p>
+
+### Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,react"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=julinuc&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julinuc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=julinuc&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=julinuc&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=julinuc&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/julinuc">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *"Code. Learn. Improve. Repeat."*
+
+</div>
