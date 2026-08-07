@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/wI5Jll6.png"/>
+
 # <div align="center">👋 Hi, I'm **julinuc**</div>
 
 <div align="center">
