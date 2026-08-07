@@ -30,30 +30,8 @@
 </div>
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/zxcadf">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://discord.com/users/">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-</p>
-
 <div align="center">
 
-**Discord:** `julinuc`
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Code • Learn • Improve • Repeat
+<img src="https://i.imgur.com/ueYFc4c.png"/>
 
 </div>
