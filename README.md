@@ -24,7 +24,7 @@
 <div align="center">
 
 # 🌌 Lumina-System
-<img src="blob:https://imgur.com/b103b081-c58d-4571-8d20-3975e86445a3"/>
+<img src="https://i.imgur.com/WGqWpKy.png"/>
 
 ---
 
