@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-banner.svg" alt="JuLinuC — инженер и разработчик"/>
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-banner.svg?v=2" alt="JuLinuC — инженер и разработчик"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/GitHub-zxcadf-171126?style=for-the-badge&logo=github&logoColor=ffd6e7" alt="GitHub"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=zxcadf&style=for-the-badge&color=9d3a70&label=ПРОСМОТРЫ" alt="Просмотры профиля"/>
-<img src="https://img.shields.io/github/followers/zxcadf?style=for-the-badge&color=6d347d&label=ПОДПИСЧИКИ" alt="Подписчики"/>
+<img src="https://img.shields.io/github/followers/zxcadf?style=for-the-badge&color=6d347d&label=FOLLOWERS" alt="Подписчики"/>
 
 <br/><br/>
 
@@ -182,7 +182,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-exploring.svg" alt="Технологии, которые изучаю"/>
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-exploring.svg?v=2" alt="Технологии, которые изучаю"/>
 
 </div>
 
