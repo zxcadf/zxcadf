@@ -91,70 +91,44 @@ I like understanding how things work, experimenting with new tools, and taking p
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web development
+<h3>🌐 Web applications</h3>
 
-- Responsive web interfaces
-- React applications
-- JavaScript / JSX projects
-- Backend services with Node.js
+Building responsive interfaces and full-stack products — from user experience to server-side logic.
+
+<sub>React · JSX · JavaScript · Node.js · PHP</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Bots & automation
+<h3>🤖 Bots & integrations</h3>
 
-- Telegram bot integrations
-- Discord bot projects
-- Automated workflows
-- Tools that connect services
+Creating Telegram and Discord bots that connect communities, services, and everyday workflows.
+
+<sub>Python · Node.js · Telegram API · Discord API</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Infrastructure
+<h3>⚙️ Infrastructure & deployment</h3>
 
-- Docker-based deployments
-- VPS administration
-- Container management
-- Self-hosted services
+Running applications beyond localhost: containers, VPS environments, deployment pipelines, and service management.
+
+<sub>Docker · Portainer · Linux · VDS/VPS · Pterodactyl</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ⛏️ Game development
+<h3>🎮 Minecraft ecosystem</h3>
 
-- Minecraft Java ecosystem
-- Fabric mod development
-- Game server tooling
-- Community utilities
+Developing tools and community systems around Minecraft servers, with an interest in Java and Fabric modding.
+
+<sub>Java · Fabric · Server tooling · Automation</sub>
 
 </td>
 </tr>
 </table>
-
-## 04 / Selected projects
-
-<div align="center">
-
-<a href="https://github.com/zxcadf/register">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=register&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=22D3EE" />
-</a>
-<a href="https://github.com/zxcadf/zxcadf.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=zxcadf.github.io&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=22D3EE" />
-</a>
-<a href="https://github.com/zxcadf/by-JuLinuC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=by-JuLinuC&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=22D3EE" />
-</a>
-
-</div>
-
-<div align="center">
-
-*Some of my work lives in private repositories — including full-stack applications, Telegram integrations, automation, and server-side projects.*
-
-</div>
 
 ## 05 / My workstation
 
@@ -186,13 +160,11 @@ I like understanding how things work, experimenting with new tools, and taking p
 ## 06 / Currently exploring
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Backend%20architecture-0B1220?style=flat-square"/>
-<img src="https://img.shields.io/badge/Telegram%20Mini%20Apps-0B1220?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker%20%26%20CI%2FCD-0B1220?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fabric%20%26%20Java-0B1220?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rust-0B1220?style=flat-square"/>
-
+  <img src="https://img.shields.io/badge/Backend%20architecture-171126?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=09090f" alt="Backend architecture"/>
+  <img src="https://img.shields.io/badge/Telegram%20Mini%20Apps-171126?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=09090f" alt="Telegram Mini Apps"/>
+  <img src="https://img.shields.io/badge/Docker%20%26%20CI%2FCD-171126?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=09090f" alt="Docker and CI/CD"/>
+  <img src="https://img.shields.io/badge/Fabric%20%26%20Java-171126?style=for-the-badge&logo=fabric&logoColor=white&labelColor=09090f" alt="Fabric and Java"/>
+  <img src="https://img.shields.io/badge/Rust-171126?style=for-the-badge&logo=rust&logoColor=white&labelColor=09090f" alt="Rust"/>
 </div>
 
 ## 07 / GitHub statistics
@@ -212,10 +184,8 @@ I like understanding how things work, experimenting with new tools, and taking p
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/BUILD-LEARN-REPEAT-0E7490?style=for-the-badge" />
-
 **Curiosity drives innovation. Code makes it real.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:07111F,45:102A43,100:0E7490" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:09090f,45:24152e,100:07131b&fontColor=E9D5FF" alt="Build, learn, improve"/>
 
 </div>
