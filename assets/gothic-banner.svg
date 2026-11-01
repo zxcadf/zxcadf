@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">JuLinuC — инженер и разработчик</title>
+<desc id="desc">Готический баннер в чёрных, малиновых и фиолетовых оттенках с орнаментом и черепом.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08070a"/><stop offset=".55" stop-color="#151019"/><stop offset="1" stop-color="#09070d"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9d3a70"/><stop offset=".45" stop-color="#ff5c91"/><stop offset="1" stop-color="#a64bd4"/></linearGradient>
+ <radialGradient id="mist"><stop stop-color="#8b3a9d" stop-opacity=".36"/><stop offset="1" stop-color="#8b3a9d" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .10 0"/></filter>
+ <pattern id="lines" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0V52" fill="none" stroke="#f9a8d4" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1600" height="520" rx="22" fill="url(#bg)"/><rect width="1600" height="520" rx="22" fill="url(#lines)"/><rect width="1600" height="520" rx="22" filter="url(#grain)" opacity=".18"/>
+<ellipse cx="1190" cy="255" rx="430" ry="320" fill="url(#mist)"/>
+<g fill="none" stroke="url(#pink)" stroke-width="3" opacity=".82" filter="url(#glow)">
+ <path d="M0 90H180L230 140H340M1600 90H1420L1370 140H1260M0 430H170L225 380H360M1600 430H1430L1375 380H1240"/>
+ <path d="M1030 0V72L1080 122H1160L1200 162H1320M1570 0V70L1515 125H1440L1400 165H1320"/>
+ <path d="M1040 520V455L1090 405H1170L1210 365H1320M1560 520V455L1510 405H1430L1390 365H1320"/>
+</g>
+<g fill="none" stroke="#f472b6" stroke-width="2" opacity=".55">
+ <path d="M90 260c90-100 170-100 260 0-90 100-170 100-260 0zM1510 260c-90-100-170-100-260 0 90 100 170 100 260 0z"/>
+ <path d="M110 260h220M1270 260h220M800 35v70m-35-35h70M800 415v70m-35-35h70"/>
+</g>
+<!-- stylized skull and horns -->
+<g transform="translate(1200 260)" opacity=".58" fill="none" stroke="#b65ac2" stroke-width="5" filter="url(#glow)">
+ <path d="M-20-78C-105-150-180-160-220-120C-175-115-155-80-145-45C-125-5-90 10-62 10"/>
+ <path d="M20-78C105-150 180-160 220-120C175-115 155-80 145-45C125-5 90 10 62 10"/>
+ <path d="M-78-42C-78-115-40-150 0-150S78-115 78-42C78 15 55 38 40 54L32 100H-32L-40 54C-55 38-78 15-78-42Z"/>
+ <path d="M-48-26a18 22 0 1 0 36 0a18 22 0 1 0 -36 0M12-26a18 22 0 1 0 36 0a18 22 0 1 0 -36 0"/>
+ <path d="M-12 20l12-18 12 18M-30 60v32m20-34v34m20-34v34m20-32v32"/>
+</g>
+<g text-anchor="middle">
+ <text x="800" y="190" fill="#f8d9e8" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="9">ИНЖЕНЕРИЯ • КОД • ТВОРЧЕСТВО</text>
+ <text x="800" y="300" fill="url(#pink)" stroke="#2a1025" stroke-width="1.5" paint-order="stroke" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="bold" letter-spacing="2">𝕵𝖚𝕷𝖎𝖓𝖚𝕮</text>
+ <text x="800" y="365" fill="#f2b6d1" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="8">РАЗРАБОТЧИК  /  ИНЖЕНЕР</text>
+ <text x="800" y="410" fill="#a98aa7" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="5">БЕЛАРУСЬ • WEB • BACKEND • AUTOMATION • BOTS</text>
+</g>
+<path d="M60 470H1540" stroke="url(#pink)" stroke-opacity=".55"/>
+</svg>
