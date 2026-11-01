@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zxcadf"><img src="https://img.shields.io/badge/GitHub-zxcadf-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Belarus-Engineer-111111?style=flat-square" alt="Belarus · Engineer">
-  <img src="https://komarev.com/ghpvc/?username=zxcadf&style=flat-square&color=111111&label=profile+views" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/zxcadf?style=flat-square&color=111111&label=followers" alt="Followers">
+  <a href="https://github.com/zxcadf"><img src="https://img.shields.io/badge/GitHub-zxcadf-171126?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Belarus-Engineer-171126?style=flat-square" alt="Belarus · Engineer">
+  <img src="https://komarev.com/ghpvc/?username=zxcadf&style=flat-square&color=171126&label=profile+views" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/zxcadf?style=flat-square&color=171126&label=followers" alt="Followers">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ The repositories below include both public and private work. Private projects ar
 ### Corupcionery — community platform
 
 <p align="center">
-  <img src="https://placehold.co/1100x420/101820/66D9E8?text=CORUPCIONERY%20%7C%20COMMUNITY%20PLATFORM" width="100%" alt="Corupcionery project cover">
+  <img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/corupcionery-banner.svg" width="100%" alt="Corupcionery project cover">
 </p>
 
 A connected web platform and service ecosystem created for a Minecraft community. The project brings the website, community operations, and Telegram communication into one system.
@@ -48,7 +48,7 @@ A connected web platform and service ecosystem created for a Minecraft community
 ### GANG4 — Telegram Mini App for student life
 
 <p align="center">
-  <img src="https://placehold.co/1100x420/101820/66D9E8?text=GANG4%20%7C%20TELEGRAM%20MINI%20APP" width="100%" alt="GANG4 project cover">
+  <img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gang4-banner.svg" width="100%" alt="GANG4 project cover">
 </p>
 
 A Telegram-first application designed to support student community and dormitory workflows. The goal is to make everyday coordination and administration available from one familiar interface.
@@ -67,7 +67,7 @@ A Telegram-first application designed to support student community and dormitory
 ### Lumina — Discord bot ecosystem
 
 <p align="center">
-  <img src="https://placehold.co/1100x420/101820/66D9E8?text=LUMINA%20%7C%20DISCORD%20AUTOMATION" width="100%" alt="Lumina project cover">
+  <img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/lumina-banner.svg" width="100%" alt="Lumina project cover">
 </p>
 
 A modular Discord automation project focused on server management and community experience.
@@ -83,30 +83,11 @@ A modular Discord automation project focused on server management and community 
 
 ---
 
-### ShopManager — Minecraft Fabric mod
-
-<p align="center">
-  <img src="https://placehold.co/1100x420/101820/66D9E8?text=SHOPMANAGER%20%7C%20MINECRAFT%20FABRIC" width="100%" alt="ShopManager project cover">
-</p>
-
-A client-side mod concept for managing in-game shops and tracking their inventory.
-
-- Product catalogue with configurable prices and stock targets.
-- Chest-coordinate configuration and inventory monitoring.
-- Tracking of items added and taken from shop storage.
-- Custom dashboard interface for shop management.
-
-**Technologies:** Java · Fabric · Minecraft client modding
-
-<sub>Development project</sub>
-
----
-
 ## Public repositories
 
 <p align="center">
-  <a href="https://github.com/zxcadf/register"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=register&hide_border=true&bg_color=101820&title_color=66D9E8&text_color=CBD5E1&icon_color=66D9E8" alt="OpenRepos Register"></a>
-  <a href="https://github.com/zxcadf/zxcadf.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=zxcadf.github.io&hide_border=true&bg_color=101820&title_color=66D9E8&text_color=CBD5E1&icon_color=66D9E8" alt="Personal website"></a>
+  <a href="https://github.com/zxcadf/register"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=register&hide_border=true&bg_color=100d18&title_color=ec4899&text_color=d8c8f4&icon_color=ec4899" alt="OpenRepos Register"></a>
+  <a href="https://github.com/zxcadf/zxcadf.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=zxcadf.github.io&hide_border=true&bg_color=100d18&title_color=ec4899&text_color=d8c8f4&icon_color=ec4899" alt="Personal website"></a>
 </p>
 
 - **[OpenRepos Register](https://github.com/zxcadf/register)** — an open-source way to claim free subdomains for open-source projects.
@@ -120,10 +101,10 @@ A client-side mod concept for managing in-game shops and tracking their inventor
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infrastructure-Portainer-111111?style=flat-square&logo=portainer">
-  <img src="https://img.shields.io/badge/Game%20servers-Pterodactyl-111111?style=flat-square&logo=pterodactyl">
-  <img src="https://img.shields.io/badge/Remote%20management-Termix-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Hosting-VDS%20%2F%20VPS-111111?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/Infrastructure-Portainer-171126?style=flat-square&logo=portainer">
+  <img src="https://img.shields.io/badge/Game%20servers-Pterodactyl-171126?style=flat-square&logo=pterodactyl">
+  <img src="https://img.shields.io/badge/Remote%20management-Termix-171126?style=flat-square">
+  <img src="https://img.shields.io/badge/Hosting-VDS%20%2F%20VPS-171126?style=flat-square&logo=linux">
 </p>
 
 ## Development setup
@@ -142,12 +123,12 @@ A client-side mod concept for managing in-game shops and tracking their inventor
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&hide_border=true&bg_color=101820&title_color=66D9E8&icon_color=66D9E8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&hide_border=true&bg_color=101820&title_color=66D9E8&text_color=CBD5E1&langs_count=8" alt="Most used languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&hide_border=true&bg_color=100d18&title_color=ec4899&icon_color=ec4899&text_color=d8c8f4&rank_icon=github" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&hide_border=true&bg_color=100d18&title_color=ec4899&text_color=d8c8f4&langs_count=8" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=zxcadf&hide_border=true&background=101820&ring=66D9E8&fire=66D9E8&currStreakLabel=66D9E8&sideLabels=CBD5E1&dates=8B949E" alt="GitHub contribution streak">
+  <img width="85%" src="https://streak-stats.demolab.com?user=zxcadf&hide_border=true&background=100d18&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&sideLabels=d8c8f4&dates=8B949E" alt="GitHub contribution streak">
 </p>
 
 ---
