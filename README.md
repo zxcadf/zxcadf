@@ -20,7 +20,11 @@
 
 ---
 
-## 01 / Обо мне
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/heading-01.svg" alt="ОБО МНЕ"/>
+
+</div>
 
 <table>
 <tr>
@@ -51,7 +55,11 @@
 </tr>
 </table>
 
-## 02 / Технологии
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/heading-02.svg" alt="ТЕХНОЛОГИИ"/>
+
+</div>
 
 <div align="center">
 
@@ -86,7 +94,11 @@
 
 </div>
 
-## 03 / Чем занимаюсь
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/heading-03.svg" alt="ЧЕМ ЗАНИМАЮСЬ"/>
+
+</div>
 
 <table>
 <tr>
@@ -131,7 +143,11 @@
 </tr>
 </table>
 
-## 04 / Моё рабочее место
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/heading-04.svg" alt="МОЁ РАБОЧЕЕ МЕСТО"/>
+
+</div>
 
 <div align="center">
 
@@ -158,7 +174,11 @@
 
 </div>
 
-## 05 / Сейчас изучаю
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/heading-05.svg" alt="СЕЙЧАС ИЗУЧАЮ"/>
+
+</div>
 
 <div align="center">
 
@@ -166,7 +186,11 @@
 
 </div>
 
-## 06 / Статистика GitHub
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/heading-06.svg" alt="СТАТИСТИКА GITHUB"/>
+
+</div>
 
 <div align="center">
 
