@@ -83,17 +83,6 @@ A modular Discord automation project focused on server management and community 
 
 ---
 
-## Public repositories
-
-<p align="center">
-  <a href="https://github.com/zxcadf/register"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=register&hide_border=true&bg_color=100d18&title_color=ec4899&text_color=d8c8f4&icon_color=ec4899" alt="OpenRepos Register"></a>
-  <a href="https://github.com/zxcadf/zxcadf.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=zxcadf.github.io&hide_border=true&bg_color=100d18&title_color=ec4899&text_color=d8c8f4&icon_color=ec4899" alt="Personal website"></a>
-</p>
-
-- **[OpenRepos Register](https://github.com/zxcadf/register)** — an open-source way to claim free subdomains for open-source projects.
-- **[Personal website](https://github.com/zxcadf/zxcadf.github.io)** — my personal website and web experiments.
-- **[by-JuLinuC](https://github.com/zxcadf/by-JuLinuC)** — personal code and experiments.
-
 ## Technology
 
 <p align="center">
