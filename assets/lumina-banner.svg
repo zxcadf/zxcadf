@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">LUMINA — Discord Automation</title><desc id="d">Dark neon project banner with violet, magenta and cyan light trails, glass panels and abstract interface details.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09090f"/><stop offset=".48" stop-color="#171126"/><stop offset="1" stop-color="#07131b"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a855f7"/><stop offset=".48" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <radialGradient id="a"><stop stop-color="#a855f7" stop-opacity=".3"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#c4b5fd" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+<ellipse cx="920" cy="205" rx="390" ry="280" fill="url(#a)"/>
+<g fill="none" stroke="url(#neon)" stroke-width="2.4" opacity=".85" filter="url(#glow)"><circle cx="960" cy="205" r="118"/><circle cx="960" cy="205" r="78" stroke-opacity=".45"/><path d="M960 87v-45m0 326v-45M842 205h-55m346 0h-55M876 121l-38-38m244 244-38-38m0-168 38-38M838 327l38-38"/><path d="M910 205h100m-50-50v100" stroke-width="4"/><circle cx="960" cy="205" r="15" fill="#ec4899"/></g>
+<path d="M0 340H1200" stroke="#fff" stroke-opacity=".08"/>
+<rect x="62" y="72" width="5" height="224" rx="3" fill="url(#neon)" filter="url(#glow)"/>
+<text x="100" y="168" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="1">LUMINA</text>
+<text x="103" y="218" fill="#d8c8f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="5">DISCORD AUTOMATION</text>
+<text x="103" y="272" fill="#9ca3af" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">DESIGN  /  DEVELOPMENT  /  SYSTEMS</text>
+<text x="1135" y="382" text-anchor="end" fill="#9ca3af" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="4">JULINUC  •  PROJECTS</text>
+</svg>
