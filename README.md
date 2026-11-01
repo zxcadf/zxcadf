@@ -1,199 +1,159 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/profile-banner.svg" width="100%" alt="JuLinuC — engineer and software developer">
+</p>
 
-<img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/profile-banner.svg" width="100%" alt="JuLinuC — Engineer and Software Developer"/>
+<h1 align="center">JuLinuC</h1>
 
-<br/>
+<p align="center">
+  <em>Engineer by profession. Developer by curiosity. Builder by habit.</em>
+</p>
 
-<a href="https://github.com/zxcadf"><img src="https://img.shields.io/badge/GitHub-zxcadf-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=zxcadf&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/zxcadf?style=for-the-badge&color=0e7490&label=FOLLOWERS" alt="Followers"/>
+<p align="center">
+  <a href="https://github.com/zxcadf"><img src="https://img.shields.io/badge/GitHub-zxcadf-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Belarus-Engineer-111111?style=flat-square" alt="Belarus · Engineer">
+  <img src="https://komarev.com/ghpvc/?username=zxcadf&style=flat-square&color=111111&label=profile+views" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/zxcadf?style=flat-square&color=111111&label=followers" alt="Followers">
+</p>
 
-### I build software, automate workflows, and bring ideas to life.
-
-**Engineer from Belarus** · Full-stack development · Bots · Infrastructure · Minecraft
-
-</div>
+<p align="center">
+  <strong>I design and develop applications, bots, automation tools, and infrastructure.</strong><br>
+  From the first interface to the backend, database, and production deployment.
+</p>
 
 ---
 
-## About
+## What I've built
 
-I'm **JuLinuC** — an engineer interested in software development, system design, and practical technology.
+The repositories below include both public and private work. Private projects are presented as portfolio case studies; implementation details and source code remain private.
 
-I enjoy building complete solutions: designing an interface, implementing application logic, connecting databases and services, then deploying and maintaining everything on a server.
+### Corupcionery — community platform
 
-My work ranges from web platforms and Telegram applications to Discord automation and Minecraft tooling. Some of these projects are private, so below I describe the engineering work and functionality without exposing source code or internal details.
+<p align="center">
+  <img src="https://placehold.co/1100x420/101820/66D9E8?text=CORUPCIONERY%20%7C%20COMMUNITY%20PLATFORM" width="100%" alt="Corupcionery project cover">
+</p>
 
-## Projects I've worked on
+A connected web platform and service ecosystem created for a Minecraft community. The project brings the website, community operations, and Telegram communication into one system.
 
-> A selection of projects I've developed. Private projects are labelled accordingly; their descriptions focus on functionality and technologies rather than source code.
+- Built a web interface with user-facing pages and administrative workflows.
+- Connected the website to a Telegram bot for community notifications and interactions.
+- Designed backend services and database-backed functionality.
+- Prepared a self-hosted deployment environment with containers and reverse proxy.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Technologies:** React · Vite · Node.js · Express · Prisma · PostgreSQL · Telegram Bot API · Docker · Caddy
 
-### ◈ Corupcionery
-**Private · Community platform**
+<sub>Repository: private</sub>
 
-A web platform and connected services built for a Minecraft community.
+---
 
-- Community website and user-facing pages
-- Admin functionality and profile management
-- Telegram bot and website integrations
-- Notifications and community workflows
-- Deployment setup for a self-hosted environment
+### GANG4 — Telegram Mini App for student life
 
-**Stack:** React, Vite, Node.js, Express, Prisma, PostgreSQL, Telegram Bot, Docker, Caddy
+<p align="center">
+  <img src="https://placehold.co/1100x420/101820/66D9E8?text=GANG4%20%7C%20TELEGRAM%20MINI%20APP" width="100%" alt="GANG4 project cover">
+</p>
 
-</td>
-<td width="50%" valign="top">
+A Telegram-first application designed to support student community and dormitory workflows. The goal is to make everyday coordination and administration available from one familiar interface.
 
-### ◈ GANG4
-**Private · Telegram Mini App**
+- Developed a Telegram Mini App connected to a bot.
+- Worked on authentication and user access flows.
+- Designed functionality for duty schedules and administrative tasks.
+- Integrated notifications and community coordination features.
 
-A Telegram-based application for student community and dormitory workflows.
+**Technologies:** React · JavaScript · Node.js · Telegram Mini Apps · Telegram Bot API
 
-- Telegram Mini App with connected bot
-- User access and authentication flows
-- Duty schedules and administrative tools
-- Notifications and community coordination
-- Web application integrated with Telegram
+<sub>Repository: private</sub>
 
-**Focus:** React, JavaScript, Node.js, Telegram Web Apps, bot integration
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Lumina — Discord bot ecosystem
 
-### ◈ Lumina
-**Private · Discord automation**
+<p align="center">
+  <img src="https://placehold.co/1100x420/101820/66D9E8?text=LUMINA%20%7C%20DISCORD%20AUTOMATION" width="100%" alt="Lumina project cover">
+</p>
 
-A modular Discord bot ecosystem focused on server management and community tools.
+A modular Discord automation project focused on server management and community experience.
 
-- Personal roles management
-- Personal voice-channel workflows
-- Permissions and application systems
-- User profiles and utility commands
-- Modular bot architecture
+- Personal role management.
+- Personal voice-channel creation and management.
+- Permission management and application workflows.
+- User profiles, utilities, and modular command architecture.
 
-**Focus:** Python, Discord API, database-backed features, Docker
+**Technologies:** Python · Discord API · Database-backed modules · Docker
 
-</td>
-<td width="50%" valign="top">
+<sub>Repository: private</sub>
 
-### ◈ Minecraft ShopManager
-**Development project · Fabric**
+---
 
-A client-side Minecraft mod concept for managing and monitoring in-game shops.
+### ShopManager — Minecraft Fabric mod
 
-- Inventory and stock tracking
-- Product and price configuration
-- Chest coordinate management
-- Tracking item movement and diamond balance
-- Custom dashboard interface
+<p align="center">
+  <img src="https://placehold.co/1100x420/101820/66D9E8?text=SHOPMANAGER%20%7C%20MINECRAFT%20FABRIC" width="100%" alt="ShopManager project cover">
+</p>
 
-**Focus:** Java, Fabric, Minecraft client modding
+A client-side mod concept for managing in-game shops and tracking their inventory.
 
-</td>
-</tr>
-</table>
+- Product catalogue with configurable prices and stock targets.
+- Chest-coordinate configuration and inventory monitoring.
+- Tracking of items added and taken from shop storage.
+- Custom dashboard interface for shop management.
 
-## Public projects
+**Technologies:** Java · Fabric · Minecraft client modding
 
-<div align="center">
+<sub>Development project</sub>
 
-<a href="https://github.com/zxcadf/register">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=register&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=c9d1d9&icon_color=22d3ee" alt="OpenRepos Register"/>
-</a>
-<a href="https://github.com/zxcadf/zxcadf.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=zxcadf.github.io&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=c9d1d9&icon_color=22d3ee" alt="Personal website"/>
-</a>
+---
 
-</div>
+## Public repositories
 
-- **[OpenRepos Register](https://github.com/zxcadf/register)** — an open-source project for claiming free subdomains for open-source projects.
+<p align="center">
+  <a href="https://github.com/zxcadf/register"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=register&hide_border=true&bg_color=101820&title_color=66D9E8&text_color=CBD5E1&icon_color=66D9E8" alt="OpenRepos Register"></a>
+  <a href="https://github.com/zxcadf/zxcadf.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zxcadf&repo=zxcadf.github.io&hide_border=true&bg_color=101820&title_color=66D9E8&text_color=CBD5E1&icon_color=66D9E8" alt="Personal website"></a>
+</p>
+
+- **[OpenRepos Register](https://github.com/zxcadf/register)** — an open-source way to claim free subdomains for open-source projects.
 - **[Personal website](https://github.com/zxcadf/zxcadf.github.io)** — my personal website and web experiments.
-- **[by-JuLinuC](https://github.com/zxcadf/by-JuLinuC)** — personal code, experiments, and development work.
+- **[by-JuLinuC](https://github.com/zxcadf/by-JuLinuC)** — personal code and experiments.
 
-## Technologies
+## Technology
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,rust,php,js,html,react,nodejs,vite,express,docker,linux,git,github,vscode&perline=8" alt="Technology stack">
+</p>
 
-**Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/Infrastructure-Portainer-111111?style=flat-square&logo=portainer">
+  <img src="https://img.shields.io/badge/Game%20servers-Pterodactyl-111111?style=flat-square&logo=pterodactyl">
+  <img src="https://img.shields.io/badge/Remote%20management-Termix-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Hosting-VDS%20%2F%20VPS-111111?style=flat-square&logo=linux">
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,rust,php,js,html&theme=dark" alt="Python, Java, Rust, PHP, JavaScript and HTML"/>
+## Development setup
 
-<br/><br/>
-
-**Frontend & backend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&theme=dark" alt="React, Vite, Node.js and Express"/>
-
-<br/><br/>
-
-**Infrastructure & tools**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" alt="Docker, Linux, Git, GitHub and VS Code"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=pterodactyl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Termix-26334A?style=flat-square&logo=gnometerminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/VDS%20%2F%20VPS-Server%20management-123C50?style=flat-square&logo=linux&logoColor=white"/>
-
-</div>
-
-## Workstation
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Lenovo Legion 5**
-
-| Component | Specification |
-|:--|:--|
+| Device | Specification |
+|---|---|
+| Laptop | Lenovo Legion 5 |
 | CPU | AMD Ryzen 7 5800H |
-| GPU | NVIDIA RTX 3060 Laptop |
-| RAM | 16 GB DDR4 |
+| GPU | NVIDIA GeForce RTX 3060 Laptop |
+| Memory | 16 GB DDR4 |
 | Storage | 512 GB NVMe |
 | Display | 165 Hz |
-
-</td>
-<td width="50%" valign="top">
-
-**Peripherals & daily tools**
-
-| Type | Device |
-|:--|:--|
 | Mouse | Ajazz 159 White |
 | Keyboard | REDRAGON LAKSHMI K606R |
-| IDE | Visual Studio Code |
-| Server access | Termix |
-| Containers | Docker, Portainer |
-| Game servers | Pterodactyl |
 
-</td>
-</tr>
-</table>
+## GitHub activity
 
-## GitHub overview
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&hide_border=true&bg_color=101820&title_color=66D9E8&icon_color=66D9E8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&hide_border=true&bg_color=101820&title_color=66D9E8&text_color=CBD5E1&langs_count=8" alt="Most used languages">
+</p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&hide_border=true&bg_color=0b1220&title_color=67e8f9&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=c9d1d9&langs_count=8" alt="Most used languages"/>
-
-</div>
+<p align="center">
+  <img width="85%" src="https://streak-stats.demolab.com?user=zxcadf&hide_border=true&background=101820&ring=66D9E8&fire=66D9E8&currStreakLabel=66D9E8&sideLabels=CBD5E1&dates=8B949E" alt="GitHub contribution streak">
+</p>
 
 ---
 
-<div align="center">
-
-**Curiosity starts it. Engineering makes it work.**
-
-<img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/profile-footer.svg" width="100%" alt="Build, learn, improve"/>
-
-</div>
+<p align="center">
+  <em>Build useful things. Keep learning. Make it work.</em>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/profile-footer.svg" width="100%" alt="Build, learn, improve">
+</p>
