@@ -1,20 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="t d">
-<title id="t">JuLinuC — инженер и разработчик</title>
-<desc id="d">Тёмный технологичный баннер с неоновыми линиями и готической типографикой.</desc>
+<title id="t">JuLinuC — инженер и разработчик</title><desc id="d">Исходный тёмный технологичный баннер сине-бирюзовой гаммы. Готическая типографика только в имени.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08080e"/><stop offset=".55" stop-color="#171126"/><stop offset="1" stop-color="#07131b"/></linearGradient>
  <linearGradient id="n"><stop stop-color="#a855f7"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
  <filter id="g"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  <pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#c4b5fd" stroke-opacity=".07"/></pattern>
 </defs>
-<rect width="1600" height="440" rx="24" fill="url(#bg)"/>
-<rect width="1600" height="440" rx="24" fill="url(#p)"/>
+<rect width="1600" height="440" rx="24" fill="url(#bg)"/><rect width="1600" height="440" rx="24" fill="url(#p)"/>
 <g fill="none" stroke="url(#n)" stroke-width="2.5" filter="url(#g)" opacity=".9">
  <path d="M920 0v90h90v60h130v70h110M1080 0v55h100v80h120v70h100M1280 0v90h100v65h110M920 440v-80h110v-65h130v-75h110M1120 440v-65h100v-85h130v-65h110"/>
 </g>
 <g fill="#22d3ee" filter="url(#g)"><circle cx="1010" cy="90" r="5"/><circle cx="1140" cy="150" r="5"/><circle cx="1300" cy="135" r="5"/><circle cx="1160" cy="295" r="5"/><circle cx="1360" cy="225" r="5"/></g>
 <path d="M95 105v230" stroke="url(#n)" stroke-width="5" filter="url(#g)"/>
-<text x="135" y="210" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="760">𝕵𝖚𝕷𝖎𝖓𝖚𝕮</text>
+<text x="135" y="210" fill="#fff" font-family="'UnifrakturMaguntia', 'Old English Text MT', Georgia, serif" font-size="86" font-weight="700">JuLinuC</text>
 <text x="140" y="267" fill="#e9d5ff" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="6">ИНЖЕНЕР • РАЗРАБОТЧИК</text>
 <text x="140" y="315" fill="#a5a0b5" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="3">ВЕБ • BACKEND • АВТОМАТИЗАЦИЯ • БОТЫ • ИНФРАСТРУКТУРА</text>
 <text x="1490" y="395" text-anchor="end" fill="#9ca3af" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="5">БЕЛАРУСЬ // 2026</text>
