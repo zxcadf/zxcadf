@@ -1,108 +1,109 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:07111F,35:102A43,70:0E7490,100:07111F&text=JuLinuC&fontColor=E6FAFF&fontSize=78&fontAlignY=42&desc=ENGINEER%20%20%E2%80%A2%20%20DEVELOPER%20%20%E2%80%A2%20%20BUILDER&descSize=16&descColor=8FE7F2&descAlignY=64&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-banner.svg" alt="JuLinuC — инженер и разработчик"/>
 
 <br/>
 
 <a href="https://github.com/zxcadf">
-  <img src="https://img.shields.io/badge/GitHub-zxcadf-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-zxcadf-171126?style=for-the-badge&logo=github&logoColor=ffd6e7" alt="GitHub"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=zxcadf&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/zxcadf?style=for-the-badge&color=0E7490&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=zxcadf&style=for-the-badge&color=9d3a70&label=ПРОСМОТРЫ" alt="Просмотры профиля"/>
+<img src="https://img.shields.io/github/followers/zxcadf?style=for-the-badge&color=6d347d&label=ПОДПИСЧИКИ" alt="Подписчики"/>
 
 <br/><br/>
 
-### Turning ideas into products, and products into working systems.
+### От идеи — к коду. От кода — к работающей системе.
 
-*Software development · Web applications · Automation · Bots · Infrastructure · Minecraft*
+*Разработка ПО · Веб-приложения · Автоматизация · Боты · Инфраструктура · Minecraft*
 
 </div>
 
 ---
 
-## 01 / About me
+## 01 / Обо мне
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### Hey, I'm JuLinuC 👋
+### Привет, я JuLinuC 👋
 
-I'm an engineer from **Belarus** with a strong interest in software development and technology.
+Я инженер из **Беларуси**, увлекаюсь разработкой программного обеспечения и созданием собственных цифровых продуктов.
 
-I enjoy building things that solve real problems — from web interfaces and backend services to bots, automation, and self-hosted infrastructure.
+Мне нравится разрабатывать решения целиком: продумывать интерфейс, писать серверную логику, подключать базы данных и внешние сервисы, а затем разворачивать и поддерживать приложение на собственном сервере.
 
-I like understanding how things work, experimenting with new tools, and taking projects from an idea to a running product.
+Интересуюсь новыми технологиями, экспериментирую с инструментами и стараюсь доводить идеи до работающего результата.
 
 </td>
 <td width="45%" valign="top">
 
-### Quick profile
+### Кратко обо мне
 
 | | |
 |:--|:--|
-| <img src="https://img.shields.io/badge/Role-Engineer-123C50?style=flat-square"/> | Software Developer |
-| <img src="https://img.shields.io/badge/Age-20-123C50?style=flat-square"/> | 20 |
-| <img src="https://img.shields.io/badge/Location-Belarus-123C50?style=flat-square"/> | Belarus |
-| <img src="https://img.shields.io/badge/Focus-Development-123C50?style=flat-square"/> | Full-stack & Systems |
+| **Профессия** | Инженер |
+| **Возраст** | 20 лет |
+| **Страна** | Беларусь |
+| **Направление** | Разработка ПО |
+| **Интересы** | Web, Backend, Bots, DevOps |
 
 </td>
 </tr>
 </table>
 
-## 02 / Technologies
+## 02 / Технологии
 
 <div align="center">
 
-### Languages & markup
+### Языки программирования
 
-<img src="https://skillicons.dev/icons?i=python,java,rust,php,js,html&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,rust,php,js,html&perline=6" alt="Python, Java, Rust, PHP, JavaScript, HTML"/>
 
 <br/><br/>
 
-### Frontend & backend
+### Frontend и Backend
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&perline=4" alt="React, Vite, Node.js, Express"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/JSX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSX-171126?style=for-the-badge&logo=react&logoColor=61DAFB" alt="JSX"/>
+<img src="https://img.shields.io/badge/JavaScript-171126?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-171126?style=for-the-badge&logo=nodedotjs&logoColor=68A063" alt="Node.js"/>
 
 <br/><br/>
 
-### Infrastructure & development tools
+### Инфраструктура и инструменты
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&perline=5" alt="Docker, Linux, Git, GitHub, VS Code"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge&logo=pterodactyl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Termix-1B263B?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/VDS%20%2F%20VPS-Server%20hosting-123C50?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portainer-171126?style=for-the-badge&logo=portainer&logoColor=13BEF9" alt="Portainer"/>
+<img src="https://img.shields.io/badge/Pterodactyl-171126?style=for-the-badge&logo=pterodactyl&logoColor=8B9DFF" alt="Pterodactyl"/>
+<img src="https://img.shields.io/badge/Termix-171126?style=for-the-badge&logo=gnometerminal&logoColor=E9D5FF" alt="Termix"/>
+<img src="https://img.shields.io/badge/VDS%20%2F%20VPS-171126?style=for-the-badge&logo=linux&logoColor=FF5C91" alt="VDS / VPS"/>
 
 </div>
 
-## 03 / What I build
+## 03 / Чем занимаюсь
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌐 Web applications</h3>
+<h3>✦ Веб-разработка</h3>
 
-Building responsive interfaces and full-stack products — from user experience to server-side logic.
+Создаю адаптивные интерфейсы и веб-приложения — от пользовательской части до серверной логики и интеграций.
 
 <sub>React · JSX · JavaScript · Node.js · PHP</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 Bots & integrations</h3>
+<h3>✦ Боты и автоматизация</h3>
 
-Creating Telegram and Discord bots that connect communities, services, and everyday workflows.
+Разрабатываю ботов и интеграции, которые связывают сообщества, приложения и внешние сервисы, упрощая повседневные процессы.
 
 <sub>Python · Node.js · Telegram API · Discord API</sub>
 
@@ -111,72 +112,70 @@ Creating Telegram and Discord bots that connect communities, services, and every
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚙️ Infrastructure & deployment</h3>
+<h3>✦ Серверы и инфраструктура</h3>
 
-Running applications beyond localhost: containers, VPS environments, deployment pipelines, and service management.
+Настраиваю серверное окружение, контейнеризацию и развёртывание приложений на VPS/VDS. Работаю с self-hosted сервисами.
 
 <sub>Docker · Portainer · Linux · VDS/VPS · Pterodactyl</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎮 Minecraft ecosystem</h3>
+<h3>✦ Игровые проекты</h3>
 
-Developing tools and community systems around Minecraft servers, with an interest in Java and Fabric modding.
+Работаю с Minecraft-экосистемой: серверные инструменты, автоматизация, игровые сообщества и изучение разработки модификаций.
 
-<sub>Java · Fabric · Server tooling · Automation</sub>
+<sub>Java · Fabric · Minecraft · Server tooling</sub>
 
 </td>
 </tr>
 </table>
 
-## 05 / My workstation
+## 04 / Моё рабочее место
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LENOVO-Legion%205-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
-<img src="https://img.shields.io/badge/165Hz-Display-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LENOVO-Legion%205-171126?style=for-the-badge&logo=lenovo&logoColor=FF5C91" alt="Lenovo Legion 5"/>
+<img src="https://img.shields.io/badge/165%20Hz-ДИСПЛЕЙ-171126?style=for-the-badge&logo=amd&logoColor=FF5C91" alt="165 Hz"/>
 
 </div>
 
-| Component | Hardware |
+| Компонент | Характеристики |
 |:--|:--|
-| **Laptop** | Lenovo Legion 5 |
-| **Processor** | AMD Ryzen 7 5800H |
-| **Graphics** | NVIDIA GeForce RTX 3060 Laptop GPU |
-| **Memory** | 16 GB DDR4 |
-| **Storage** | 512 GB NVMe |
-| **Display** | 165 Hz |
+| **Ноутбук** | Lenovo Legion 5 |
+| **Процессор** | AMD Ryzen 7 5800H |
+| **Видеокарта** | NVIDIA GeForce RTX 3060 Laptop |
+| **Оперативная память** | 16 GB DDR4 |
+| **Накопитель** | 512 GB NVMe |
+| **Дисплей** | 165 Hz |
 
 <div align="center">
 
-### Peripherals
+### Периферия
 
-<img src="https://img.shields.io/badge/MOUSE-Ajazz%20159%20White-EEF2F7?style=for-the-badge&logo=logitech&logoColor=111827"/>
-<img src="https://img.shields.io/badge/KEYBOARD-REDRAGON%20LAKSHMI%20K606R-8B1E2D?style=for-the-badge&logo=redragon&logoColor=white"/>
+<img src="https://img.shields.io/badge/MOUSE-Ajazz%20159%20White-171126?style=for-the-badge&logoColor=FF5C91" alt="Ajazz 159 White"/>
+<img src="https://img.shields.io/badge/KEYBOARD-REDRAGON%20LAKSHMI%20K606R-171126?style=for-the-badge&logoColor=FF5C91" alt="REDRAGON LAKSHMI K606R"/>
 
 </div>
 
-## 06 / Currently exploring
+## 05 / Сейчас изучаю
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend%20architecture-171126?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=09090f" alt="Backend architecture"/>
-  <img src="https://img.shields.io/badge/Telegram%20Mini%20Apps-171126?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=09090f" alt="Telegram Mini Apps"/>
-  <img src="https://img.shields.io/badge/Docker%20%26%20CI%2FCD-171126?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=09090f" alt="Docker and CI/CD"/>
-  <img src="https://img.shields.io/badge/Fabric%20%26%20Java-171126?style=for-the-badge&logo=fabric&logoColor=white&labelColor=09090f" alt="Fabric and Java"/>
-  <img src="https://img.shields.io/badge/Rust-171126?style=for-the-badge&logo=rust&logoColor=white&labelColor=09090f" alt="Rust"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-exploring.svg" alt="Технологии, которые изучаю"/>
+
 </div>
 
-## 07 / GitHub statistics
+## 06 / Статистика GitHub
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=C9D1D9&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=zxcadf&show_icons=true&hide_border=true&bg_color=100b14&title_color=ff78a8&icon_color=c084fc&text_color=e8dce9&rank_icon=github&include_all_commits=true" alt="Статистика GitHub"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcadf&layout=compact&hide_border=true&bg_color=100b14&title_color=ff78a8&text_color=e8dce9&langs_count=8" alt="Популярные языки"/>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=zxcadf&hide_border=true&background=0B1220&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" />
+<img width="85%" src="https://streak-stats.demolab.com?user=zxcadf&hide_border=true&background=100b14&ring=ff5c91&fire=c084fc&currStreakLabel=ff78a8&sideLabels=e8dce9&dates=aa91aa" alt="Активность GitHub"/>
 
 </div>
 
@@ -184,8 +183,8 @@ Developing tools and community systems around Minecraft servers, with an interes
 
 <div align="center">
 
-**Curiosity drives innovation. Code makes it real.**
+**Любопытство рождает идеи. Инженерный подход превращает их в результат.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:09090f,45:24152e,100:07131b&fontColor=E9D5FF" alt="Build, learn, improve"/>
+<img width="100%" src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/gothic-footer.svg" alt="Создавать, изучать, улучшать"/>
 
 </div>
