@@ -32,7 +32,7 @@ const julinuc = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zxcadf/zxcadf/main/assets/profile/stack.svg" width="100%" alt="Мой технологический стек">
+<img src="https://media2.giphy.com/media/H82wjp90lPC3ZwPPAl/giphy.gif" width="360" alt="Анимированная GIF с разработчиком за работой">
 
 </div>
 
