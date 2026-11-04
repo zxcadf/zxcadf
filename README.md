@@ -28,11 +28,11 @@ const julinuc = {
 };
 ```
 
-### Технологии
+### Гифка
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/H82wjp90lPC3ZwPPAl/giphy.gif" width="360" alt="Анимированная GIF с разработчиком за работой">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh6aW1nYjFncjh2Y3VxcGxwbzVuNHZsdmRha2loMWViMTc4eTE3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1iUZiXocraqiP7zy/giphy.gif" width="360" alt="Анимированная GIF с разработчиком за работой">
 
 </div>
 
