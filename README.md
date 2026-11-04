@@ -16,7 +16,7 @@
 
 </div>
 
-### 01 / Обо мне
+### Обо мне
 
 Инженер из **Беларуси**. Разрабатываю веб-приложения, ботов и инструменты автоматизации. Люблю собирать проекты целиком — от интерфейса и API до базы данных и развёртывания на сервере.
 
@@ -28,7 +28,7 @@ const julinuc = {
 };
 ```
 
-### 02 / Технологии
+### Технологии
 
 <div align="center">
 
@@ -36,7 +36,7 @@ const julinuc = {
 
 </div>
 
-### 03 / Что создаю
+### Что создаю
 
 - **Веб-приложения** — интерфейсы, backend, API и интеграции.
 - **Боты и автоматизация** — Telegram, Discord и инструменты для сообществ.
@@ -47,7 +47,7 @@ const julinuc = {
 
 `Backend Architecture` · `Telegram Mini Apps` · `Docker & CI/CD` · `Java & Fabric` · `Rust`
 
-### 05 / Рабочее место
+### Рабочее место
 
 <details>
 <summary>Lenovo Legion 5 · характеристики и периферия</summary>
@@ -64,17 +64,9 @@ const julinuc = {
 
 </details>
 
-### 06 / GitHub
+### GitHub
 
 <div align="center">
-
-<a href="https://github.com/zxcadf?tab=repositories">Репозитории</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/zxcadf?tab=stars">Избранное</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/zxcadf/commits/main/">История изменений</a>
-
-<br><br>
 
 <sub>Создаю. Изучаю. Улучшаю.</sub>
 
